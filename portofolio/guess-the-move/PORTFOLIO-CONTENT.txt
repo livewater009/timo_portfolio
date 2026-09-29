@@ -1,0 +1,81 @@
+============================================================
+GUESS THE MOVE / GUESS CHESS — Upwork Portfolio Fields
+============================================================
+
+STORE LINKS
+-----------
+iOS:     https://apps.apple.com/us/app/guess-the-move/id6753637134
+Android: https://play.google.com/store/apps/details?id=guess.smartchess
+Website: https://guessthemove.app/
+
+
+------------------------------------------------------------
+Project title * (max 70)
+------------------------------------------------------------
+Guess the Move — React Native Chess Training App
+
+(58 characters)
+
+
+------------------------------------------------------------
+Your role (optional) (max 100)
+------------------------------------------------------------
+Mobile developer — React Native app + Squarespace site
+
+(56 characters)
+
+
+------------------------------------------------------------
+Project description * (max 600)
+------------------------------------------------------------
+Built Guess Chess (Guess the Move) end-to-end: a React Native (Expo) iOS & Android app plus the Squarespace marketing site at guessthemove.app.
+
+Players train by guessing grandmaster moves from 40,000+ legendary games—pick legends like Carlsen or Fischer, race timed challenges, solve puzzles, and get real-time accuracy feedback with progress stats. Shipped App Store & Google Play listings, dark-themed gameplay UI, and a conversion-focused download landing page.
+
+(approx. 480 characters)
+
+
+------------------------------------------------------------
+Skills and deliverables * (up to 5)
+------------------------------------------------------------
+1. React Native
+2. Mobile App Development
+3. iOS Development
+4. Android App Development
+5. Squarespace
+
+
+------------------------------------------------------------
+Add content (upload these files from this folder)
+------------------------------------------------------------
+Images:
+  01-hero-guess-the-move.png       — Hero / brand portfolio banner
+  02-features-guess-the-move.png   — Feature phone collage
+  03-website-guess-the-move.png    — Squarespace marketing site mock
+  04-deliverables-guess-the-move.png — Deliverables summary
+  05-appstore-listing.png          — Live App Store listing (if present)
+  06-website-live.png              — Live guessthemove.app screenshot (if present)
+
+Links:
+  https://guessthemove.app/
+  https://apps.apple.com/us/app/guess-the-move/id6753637134
+  https://play.google.com/store/apps/details?id=guess.smartchess
+
+Optional text block:
+  Guess Chess — Play Like the Legends. Learn Like a Pro. React Native + Expo on iOS/Android; Squarespace marketing site. 40K+ legendary games, timed challenges, puzzles, real-time accuracy feedback.
+
+
+------------------------------------------------------------
+ALTERNATE SKILL SETS (swap if targeting a niche job)
+------------------------------------------------------------
+A) Product-focused: React Native, Expo, UI/UX Design, App Store Optimization, Squarespace
+B) Full-stack lean: React Native, TypeScript, REST APIs, Mobile UX, Landing Page Design
+
+
+------------------------------------------------------------
+NOTES
+------------------------------------------------------------
+- Store display name: Guess Chess - Guess the Move!
+- Developer: PositionLEAP, Inc.
+- Tagline: Play Like the Legends. Learn Like a Pro.
+- Free download with optional Premium IAP

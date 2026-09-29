@@ -1,0 +1,83 @@
+============================================================
+TIGERGENIE — Upwork Portfolio Fields
+============================================================
+
+STORE / WEB LINKS
+-----------------
+iOS:     https://apps.apple.com/us/app/tigergenie/id6761698465
+Android: https://play.google.com/store/apps/details?id=com.tigergenie.app
+Website: https://tigergenie.com/
+
+
+------------------------------------------------------------
+Project title * (max 70)
+------------------------------------------------------------
+TigerGenie — NFC Focus Mode App (React Native)
+
+(53 characters)
+
+
+------------------------------------------------------------
+Your role (optional) (max 100)
+------------------------------------------------------------
+Mobile developer — React Native iOS & Android + NFC
+
+(54 characters)
+
+
+------------------------------------------------------------
+Project description * (max 600)
+------------------------------------------------------------
+Built TigerGenie end-to-end: a React Native (Expo) iOS & Android app that starts Focus Mode with one tap of an NFC keychain—helping families pause distracting apps and stay present at dinner, study time, and bedtime.
+
+Shipped customizable app/category blocking (Screen Time Family Controls on iOS; AccessibilityService blocking on Android), timed unlocks, focus progress tracking, and a no-subscription core experience. Also delivered App Store & Google Play listings plus the tigergenie.com marketing site.
+
+(approx. 490 characters)
+
+
+------------------------------------------------------------
+Skills and deliverables * (up to 5)
+------------------------------------------------------------
+1. React Native
+2. Mobile App Development
+3. iOS Development
+4. Android App Development
+5. NFC
+
+
+------------------------------------------------------------
+Add content (upload these files from this folder)
+------------------------------------------------------------
+Images:
+  01-hero-tigergenie.png         — Hero / brand portfolio banner
+  02-features-tigergenie.png     — Feature phone collage
+  03-website-tigergenie.png      — Marketing site mock
+  04-deliverables-tigergenie.png — Deliverables summary
+  05-appstore-listing.png        — Live App Store listing (if present)
+  06-website-live.png            — Live tigergenie.com screenshot (if present)
+
+Links:
+  https://tigergenie.com/
+  https://apps.apple.com/us/app/tigergenie/id6761698465
+  https://play.google.com/store/apps/details?id=com.tigergenie.app
+
+Optional text block:
+  TigerGenie — Tap. Pause. Focus. React Native + Expo on iOS/Android. NFC one-tap Focus Mode, customizable app blocking, family screen-habit tracking. Free, no subscription required.
+
+
+------------------------------------------------------------
+ALTERNATE SKILL SETS (swap if targeting a niche job)
+------------------------------------------------------------
+A) Native deep: React Native, Expo, Screen Time API, Android AccessibilityService, NFC
+B) Product: React Native, Mobile UX, Parental Controls, Habit Tracking, App Store Optimization
+
+
+------------------------------------------------------------
+NOTES
+------------------------------------------------------------
+- Category: Productivity
+- Developer: PositionLEAP, Inc.
+- Tagline: Focus Mode with One Tap / Tap to Pause. Be Present.
+- Package: com.tigergenie.app
+- Free; no subscription required for core experience
+- Privacy: Data Not Collected (per store listings)

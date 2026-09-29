@@ -1,0 +1,54 @@
+============================================================
+WHY UNIFIED® — Portfolio Fields
+============================================================
+
+STORE / WEB LINKS
+-----------------
+Website: https://whyunified.com/
+iOS:     https://apps.apple.com/us/app/why-unified-dropshipping/id6747406254
+Android: https://play.google.com/store/apps/details?id=whyunified.llc
+
+
+------------------------------------------------------------
+Project title
+------------------------------------------------------------
+Why Unified® — Dropshipping Platform (React Native)
+
+
+------------------------------------------------------------
+Your role
+------------------------------------------------------------
+Mobile & platform developer — iOS & Android dropshipping app
+
+
+------------------------------------------------------------
+Project description
+------------------------------------------------------------
+Built Why Unified® Platform for iOS and Android—a dropshipping app that
+helps entrepreneurs launch and scale marketplace stores on Amazon® and
+Walmart®. Delivered connect-or-takeover store flows, access to trusted
+household brands, pay-as-you-sell inventory, real-time order/revenue
+insights, and in-app support—while the platform handles fulfillment,
+shipping, and returns so stores can run on auto-pilot.
+
+Workflow: Connect → Access products → List & price → Orders → Fulfillment
+→ Track growth.
+
+
+------------------------------------------------------------
+Skills and deliverables
+------------------------------------------------------------
+1. React Native
+2. Mobile App Development
+3. iOS Development
+4. Android App Development
+5. Marketplace Integrations
+
+
+------------------------------------------------------------
+Images (collage pack)
+------------------------------------------------------------
+01-hero.png          — Brand / hero portfolio banner
+02-features.png      — Feature phone collage (Connect · List · Insights)
+03-workflow.png      — From connect to auto-pilot sales workflow
+04-deliverables.png  — Deliverables summary

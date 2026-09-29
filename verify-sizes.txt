@@ -1,0 +1,12 @@
+﻿[public\portfolio\why-unified]
+01-hero.png 300786
+02-screens.png 751414
+03-pulse.png 470140
+04-activate.png 265316
+05-brands.png 965515
+[portofolio\why-unified]
+01-hero.png 300786
+02-screens.png 751414
+03-pulse.png 470140
+04-activate.png 265316
+05-brands.png 965515

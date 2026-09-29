@@ -1,0 +1,83 @@
+============================================================
+BRUNO GRÖNING — Upwork Portfolio Fields
+============================================================
+
+STORE / WEB LINKS
+-----------------
+iOS:     https://apps.apple.com/us/app/bruno-gr%C3%B6ning/id6757975222
+Android: https://play.google.com/store/apps/details?id=org.bruno.groening
+Website: https://bruno-groening.org/
+
+
+------------------------------------------------------------
+Project title * (max 70)
+------------------------------------------------------------
+Bruno Gröning — Free Spiritual Lifestyle App
+
+(48 characters)
+
+
+------------------------------------------------------------
+Your role (optional) (max 100)
+------------------------------------------------------------
+Mobile developer — React Native iOS & Android media app
+
+(58 characters)
+
+
+------------------------------------------------------------
+Project description * (max 600)
+------------------------------------------------------------
+Built the Bruno Gröning lifestyle app for iOS & Android: a free, ad-free guide to the practice of Einstellen (daily energy intake) according to Bruno Gröning’s teaching, helping users open daily to the “healing stream” and integrate it into everyday life.
+
+Shipped a curated media library—choir/orchestra music, documentaries, interviews, testimonials, audio books, lectures, and readable e-books—plus favorites, audio/video playlists, landscape e-book mode, and Infocenter. No registration, no IAPs; published on App Store & Google Play (4.9★).
+
+(approx. 545 characters)
+
+
+------------------------------------------------------------
+Skills and deliverables * (up to 5)
+------------------------------------------------------------
+1. React Native
+2. Mobile App Development
+3. iOS Development
+4. Android App Development
+5. Media Streaming
+
+
+------------------------------------------------------------
+Add content (upload these files from this folder)
+------------------------------------------------------------
+Images:
+  01-hero-bruno-groening.png         — Hero / brand portfolio banner
+  02-features-bruno-groening.png     — Feature phone collage
+  03-website-bruno-groening.png      — Website / org mock
+  04-deliverables-bruno-groening.png — Deliverables summary
+  05-appstore-listing.png            — Live App Store listing (if present)
+  06-playstore-or-web.png            — Play Store or website screenshot (if present)
+
+Links:
+  https://apps.apple.com/us/app/bruno-gr%C3%B6ning/id6757975222
+  https://play.google.com/store/apps/details?id=org.bruno.groening
+  https://bruno-groening.org/
+
+Optional text block:
+  Bruno Gröning — Daily inspiration and recharging. Free React Native iOS/Android app: guided Einstellen practice, music, films, e-books, favorites & playlists. No ads, no registration, no in-app purchases.
+
+
+------------------------------------------------------------
+ALTERNATE SKILL SETS (swap if targeting a niche job)
+------------------------------------------------------------
+A) Content/media: React Native, Expo, Audio/Video Playback, E-book Reader, Offline Media
+B) Nonprofit product: React Native, Mobile UX, Content Apps, Accessibility, App Store Publishing
+
+
+------------------------------------------------------------
+NOTES
+------------------------------------------------------------
+- Category: Lifestyle
+- Publisher: Kreis für natürliche Lebenshilfe e.V. / Bruno Gröning Circle of Friends
+- Package: org.bruno.groening
+- Rating: 4.9 (18 ratings on App Store)
+- Completely free — no ads, no registration, no IAPs
+- Disclaimer: not medical advice; supports well-being / spiritual practice

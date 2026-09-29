@@ -1,0 +1,80 @@
+============================================================
+BLADE (Nomad Intelliware) — Upwork Portfolio Fields
+STYLE: B2B case-study / architecture (not consumer-app collage)
+============================================================
+
+LIVE URL
+--------
+https://www.blade.nomadiw.com/
+
+
+------------------------------------------------------------
+Project title * (max 70)
+------------------------------------------------------------
+Blade — Restoration SaaS (Vue + Spring + QuickBooks)
+
+(58 characters)
+
+
+------------------------------------------------------------
+Your role (optional) (max 100)
+------------------------------------------------------------
+Full-stack developer — Vue frontend & Java Spring backend
+
+(59 characters)
+
+
+------------------------------------------------------------
+Project description * (max 600)
+------------------------------------------------------------
+Built Blade, a full-stack SaaS platform for disaster restoration contractors—unifying CRM, dispatch, field documentation, estimating, billing, and financial reporting in one system.
+
+Delivered a Vue.js SPA on a Java Spring backend with real-time two-way QuickBooks Online sync (customers, invoices, payments), plus integrations with Xactimate/XactAnalysis and partner billing tools. Focus: eliminate duplicate data entry from first call to final payment, SOC 2–ready enterprise workflows, and AI-assisted job documentation.
+
+(approx. 520 characters)
+
+
+------------------------------------------------------------
+Skills and deliverables * (up to 5)
+------------------------------------------------------------
+1. Vue.js
+2. Java Spring
+3. QuickBooks API
+4. REST API
+5. SaaS Development
+
+
+------------------------------------------------------------
+Add content — DIFFERENT STYLE PACK (case study)
+------------------------------------------------------------
+Images (architecture / workflow / integration — not phone mockups):
+  01-case-cover-blade.png       — Dark industrial case-study cover
+  02-architecture-blade.png     — Vue → Spring → QuickBooks diagram
+  03-workflow-blade.png         — First call → final payment pipeline
+  04-quickbooks-sync-blade.png  — 2-way QuickBooks sync graphic
+  05-homepage-live.png          — Live blade.nomadiw.com hero
+  06-integrations-live.png      — Live integrations / QB page (if present)
+
+Links:
+  https://www.blade.nomadiw.com/
+  https://www.blade.nomadiw.com/ (QuickBooks Integration page if linked)
+
+Optional text block:
+  Blade by Nomad Intelliware — disaster restoration ERP. Stack: Vue.js + Java Spring Boot, real-time QuickBooks Online 2-way sync, Xactimate/XactAnalysis ecosystem. CRM → dispatch → scope → bill → collect.
+
+
+------------------------------------------------------------
+ALTERNATE SKILL SETS
+------------------------------------------------------------
+A) Backend-heavy: Java Spring, REST APIs, QuickBooks Sync, PostgreSQL, Enterprise SaaS
+B) Frontend-heavy: Vue.js, SPA Architecture, Dashboard UI, Integration UX, Fintech Workflows
+
+
+------------------------------------------------------------
+NOTES
+------------------------------------------------------------
+- Product of Nomad Intelliware LLC
+- Domain: mitigation & disaster restoration contractors
+- Key integrations: QuickBooks Online, Xactimate, XactAnalysis, Verisk, Blackwater
+- SOC 2 Type II compliant (per site)
+- Style chosen: B2B case-study / technical architecture (distinct from consumer app portfolios)

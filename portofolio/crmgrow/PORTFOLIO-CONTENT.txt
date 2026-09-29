@@ -1,0 +1,52 @@
+============================================================
+CRMGROW — Portfolio Fields (collage pack, matches other projects)
+============================================================
+
+LIVE URL
+--------
+https://crmgrow.com/
+Mobile: https://crmgrow.com/mobile.html
+
+
+------------------------------------------------------------
+Project title
+------------------------------------------------------------
+crmgrow — Real Estate Team CRM (Angular + Node.js)
+
+
+------------------------------------------------------------
+Your role
+------------------------------------------------------------
+Full stack developer — Angular frontend & Node.js backend
+
+
+------------------------------------------------------------
+Project description
+------------------------------------------------------------
+Built crmgrow end-to-end with Angular and Node.js—a real estate team
+production platform for converting leads into clients.
+
+Workflow: Capture → Route → Automate follow-up → Pipeline → Appointments
+→ Convert & track.
+
+Modules: Dashboard, Materials, Pipeline, Deals, Tasks, Lead Generation,
+Contacts, Calendar, Automations, Power Dialer, SMS, Team sharing.
+
+
+------------------------------------------------------------
+Skills and deliverables
+------------------------------------------------------------
+1. Angular
+2. Node.js
+3. REST APIs
+4. SaaS Development
+5. CRM
+
+
+------------------------------------------------------------
+Images (designed collage pack — same pattern as Doodlez / Blade)
+------------------------------------------------------------
+01-hero.png          — Brand / hero portfolio banner
+02-features.png      — Feature collage (Lead Hub, Pipeline, Automations)
+03-workflow.png      — From lead to closed deal workflow
+04-deliverables.png  — Deliverables summary (Angular / Node / engines)

@@ -1,0 +1,81 @@
+============================================================
+DOODLEZ AI ART — Upwork Portfolio Fields
+============================================================
+
+STORE / WEB LINKS
+-----------------
+iOS:     https://apps.apple.com/us/app/doodlez-ai-art/id6756695498
+Website: https://doodlez.co/
+
+
+------------------------------------------------------------
+Project title * (max 70)
+------------------------------------------------------------
+Doodlez — AI Art Social App (React Native)
+
+(50 characters)
+
+
+------------------------------------------------------------
+Your role (optional) (max 100)
+------------------------------------------------------------
+Mobile & backend developer — React Native + Node API
+
+(55 characters)
+
+
+------------------------------------------------------------
+Project description * (max 600)
+------------------------------------------------------------
+Built Doodlez AI Art: a React Native (Expo) iOS app that turns simple doodles into scroll-stopping AI art in under 15 seconds, plus the marketing site at doodlez.co.
+
+Users sketch anything, pick from 50+ artist-inspired styles (Picasso, Van Gogh, Banksy, Klimt, and more), generate variations, then post to a TikTok-style community feed—like, comment, follow, and remix trending looks. Shipped App Store listing, freemium IAP, sketch-faithful AI generation, and a conversion-focused download landing page.
+
+(approx. 520 characters)
+
+
+------------------------------------------------------------
+Skills and deliverables * (up to 5)
+------------------------------------------------------------
+1. React Native
+2. Mobile App Development
+3. AI Integration
+4. Node.js
+5. UI/UX Design
+
+
+------------------------------------------------------------
+Add content (upload these files from this folder)
+------------------------------------------------------------
+Images:
+  01-hero-doodlez.png         — Hero / brand portfolio banner
+  02-features-doodlez.png     — Feature phone collage
+  03-website-doodlez.png      — Marketing site mock
+  04-deliverables-doodlez.png — Deliverables summary
+  05-appstore-listing.png     — Live App Store listing (if present)
+  06-website-live.png         — Live doodlez.co screenshot (if present)
+
+Links:
+  https://doodlez.co/
+  https://apps.apple.com/us/app/doodlez-ai-art/id6756695498
+
+Optional text block:
+  Doodlez — Turn Your Doodles Into Masterpieces. React Native iOS app + Node/Express AI backend + marketing site. Doodle → pick style → AI art in seconds → social feed remix loop.
+
+
+------------------------------------------------------------
+ALTERNATE SKILL SETS (swap if targeting a niche job)
+------------------------------------------------------------
+A) Full-stack: React Native, Expo, Node.js, MongoDB, REST APIs
+B) Product/AI: React Native, Generative AI, Mobile UX, App Store Optimization, Social App Design
+
+
+------------------------------------------------------------
+NOTES
+------------------------------------------------------------
+- Store name: Doodlez AI Art
+- Category: Graphics & Design
+- Developer: PositionLEAP, Inc.
+- Tagline: Turn Your Doodles Into Masterpieces
+- Free + Weekly Premium / Weekly 200 IAP
+- Privacy: Data Not Collected (per App Store)
