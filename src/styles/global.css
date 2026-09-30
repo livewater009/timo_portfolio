@@ -51,9 +51,9 @@ body {
   line-height: 1.6;
   color: var(--ink);
   background:
-    radial-gradient(1200px 600px at 85% -10%, rgba(31, 111, 139, 0.16), transparent 55%),
-    radial-gradient(900px 500px at -10% 20%, rgba(247, 241, 232, 0.9), transparent 50%),
-    linear-gradient(180deg, #f7fafc 0%, var(--bg) 40%, #eef3f8 100%);
+    radial-gradient(1200px 620px at 88% -8%, rgba(31, 111, 139, 0.18), transparent 55%),
+    radial-gradient(900px 480px at -8% 18%, rgba(31, 111, 139, 0.08), transparent 50%),
+    linear-gradient(180deg, #f5f8fb 0%, var(--bg) 42%, #eef3f8 100%);
   background-attachment: fixed;
 }
 
@@ -110,13 +110,42 @@ ul {
   margin-inline: auto;
 }
 
+@media (max-width: 560px) {
+  .container {
+    width: min(100% - 2.5rem, var(--max));
+  }
+}
+
 .section {
-  padding: 4.5rem 0;
+  padding: 4.75rem 0;
+}
+
+.section-band {
+  position: relative;
+}
+
+.section-band::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      180deg,
+      color-mix(in srgb, var(--bg-elevated) 35%, transparent),
+      color-mix(in srgb, var(--accent-soft) 42%, transparent)
+    );
+  border-block: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
+  pointer-events: none;
+  z-index: -1;
 }
 
 .section-head {
   max-width: 40rem;
   margin-bottom: 2.25rem;
+}
+
+.section-head--compact {
+  margin-bottom: 0;
 }
 
 .section-head h2 {
@@ -129,6 +158,18 @@ ul {
   font-size: 1.1rem;
 }
 
+.section-actions {
+  margin-top: 1.85rem;
+}
+
+.surface-panel {
+  background: color-mix(in srgb, var(--bg-elevated) 82%, transparent);
+  border: 1px solid color-mix(in srgb, var(--line) 80%, transparent);
+  border-radius: calc(var(--radius) + 8px);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(12px);
+}
+
 .eyebrow {
   display: inline-block;
   font-size: 0.8rem;
@@ -137,6 +178,10 @@ ul {
   text-transform: uppercase;
   color: var(--accent);
   margin-bottom: 0.85rem;
+}
+
+.eyebrow--on-dark {
+  color: color-mix(in srgb, #fff 78%, var(--accent-soft));
 }
 
 .btn {
@@ -149,7 +194,8 @@ ul {
   border-radius: 999px;
   border: 1.5px solid transparent;
   font-weight: 600;
-  transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease, color 0.2s ease;
+  transition: transform 0.2s ease, background 0.2s ease, border-color 0.2s ease, color 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .btn:hover {
@@ -159,6 +205,7 @@ ul {
 .btn-primary {
   background: var(--accent);
   color: #fff;
+  box-shadow: 0 10px 24px color-mix(in srgb, var(--accent) 28%, transparent);
 }
 
 .btn-primary:hover {
@@ -166,14 +213,15 @@ ul {
 }
 
 .btn-secondary {
-  background: transparent;
-  border-color: var(--line);
+  background: color-mix(in srgb, var(--bg-elevated) 55%, transparent);
+  border-color: color-mix(in srgb, var(--line) 80%, transparent);
   color: var(--ink);
+  backdrop-filter: blur(8px);
 }
 
 .btn-secondary:hover {
   border-color: var(--accent);
-  color: var(--accent);
+  color: var(--accent-deep);
 }
 
 .btn-group {
@@ -232,7 +280,15 @@ ul {
   }
 
   .btn:hover,
-  .project-card:hover .project-card__media img {
+  .project-card:hover,
+  .project-card:hover .project-card__media img,
+  .project-card:hover .project-card__cta svg,
+  .contact-list a:hover {
     transform: none;
+  }
+
+  .project-card {
+    opacity: 1;
+    animation: none;
   }
 }

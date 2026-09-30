@@ -24,7 +24,7 @@ export function ProjectPage() {
           <p className="project-detail__role">{project.role}</p>
           <div className="project-detail__meta">
             <span className="chip">{project.category}</span>
-            {project.skills.slice(0, 3).map((skill) => (
+            {project.skills.slice(0, 5).map((skill) => (
               <span className="chip" key={skill}>
                 {skill}
               </span>

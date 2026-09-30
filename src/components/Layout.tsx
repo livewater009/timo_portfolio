@@ -13,10 +13,12 @@ function getInitialTheme(): Theme {
 
 export function Layout() {
   const location = useLocation()
+  const isHome = location.pathname === '/'
   const [theme, setTheme] = useState<Theme>(() =>
     typeof window === 'undefined' ? 'light' : getInitialTheme(),
   )
   const [menuOpen, setMenuOpen] = useState(false)
+  const [scrolled, setScrolled] = useState(false)
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme)
@@ -27,11 +29,26 @@ export function Layout() {
     setMenuOpen(false)
   }, [location.pathname])
 
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 12)
+    onScroll()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [])
+
   const closeMenu = () => setMenuOpen(false)
+  const headerClass = [
+    'site-header',
+    isHome ? 'site-header--home' : '',
+    isHome && !scrolled && !menuOpen ? 'site-header--over-hero' : '',
+    scrolled || !isHome || menuOpen ? 'site-header--solid' : '',
+  ]
+    .filter(Boolean)
+    .join(' ')
 
   return (
     <>
-      <header className="site-header">
+      <header className={headerClass}>
         <div className="container site-header__inner">
           <NavLink to="/" className="brand" onClick={closeMenu}>
             <img src="/timothy-griggs.jpg" alt="" width={38} height={38} />
@@ -101,21 +118,36 @@ export function Layout() {
       </main>
 
       <footer className="site-footer">
-        <div className="container site-footer__inner">
-          <div>
-            <h3>{site.name}</h3>
-            <p>
-              {site.title} · {site.location}
-            </p>
-            <small>© {new Date().getFullYear()} {site.name}. All rights reserved.</small>
+        <div className="container">
+          <div className="site-footer__grid">
+            <div className="site-footer__brand">
+              <p className="site-footer__name">{site.name}</p>
+              <p className="site-footer__role">{site.title}</p>
+              <p className="site-footer__tagline">{site.tagline}</p>
+            </div>
+
+            <nav className="site-footer__col" aria-label="Footer navigation">
+              <p className="site-footer__label">Explore</p>
+              <NavLink to="/work">Work</NavLink>
+              <NavLink to="/about">About</NavLink>
+              <NavLink to="/contact">Contact</NavLink>
+            </nav>
+
+            <div className="site-footer__col">
+              <p className="site-footer__label">Connect</p>
+              <a href={site.links.linkedin} target="_blank" rel="noreferrer">
+                LinkedIn
+              </a>
+              <a href={site.phoneHref}>{site.phone}</a>
+              <span>{site.location}</span>
+            </div>
           </div>
-          <div className="footer-links">
-            <a href={site.links.linkedin} target="_blank" rel="noreferrer">
-              LinkedIn
-            </a>
-            <a href={site.phoneHref}>{site.phone}</a>
-            <NavLink to="/work">Work</NavLink>
-            <NavLink to="/contact">Contact</NavLink>
+
+          <div className="site-footer__bar">
+            <small>
+              © {new Date().getFullYear()} {site.name}. All rights reserved.
+            </small>
+            <small>{site.address}</small>
           </div>
         </div>
       </footer>
